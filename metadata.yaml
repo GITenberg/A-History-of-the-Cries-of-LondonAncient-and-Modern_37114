@@ -1,0 +1,40 @@
+_repo: A-History-of-the-Cries-of-LondonAncient-and-Modern_37114
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bewick, John
+    alias: Bewick, I.
+    birthdate: 1760
+    deathdate: 1795
+    gutenberg_agent_id: '32303'
+    url: http://www.gutenberg.org/2009/agents/32303
+  - agent_name: Bewick, Thomas
+    alias: Bewick, T. (Thomas)
+    birthdate: 1753
+    deathdate: 1828
+    gutenberg_agent_id: '33524'
+    url: http://www.gutenberg.org/2009/agents/33524
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hindley, Charles
+    deathdate: 1893
+    gutenberg_agent_id: '38658'
+    url: http://www.gutenberg.org/2009/agents/38658
+description: ''
+gutenberg_issued: '2011-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Social life and customs'
+- !lcsh 'Cries -- England -- London'
+- !lcc 'DA'
+title: A History of the Cries of London, Ancient and Modern
+url: http://www.gutenberg.org/ebooks/37114
